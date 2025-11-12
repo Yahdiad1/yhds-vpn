@@ -25,5 +25,4 @@
 ## 🚀 Cara Install
 > Jalankan langsung di VPS (root user)
 
-```bash
-bash <(curl -sSL https://raw.githubusercontent.com/Yahdiad1/yhds-vpn/main/install_yhds_fullcolor.sh)
+wget -O install_yhds_fullcolor.sh https://raw.githubusercontent.com/Yahdiad1/yhds-vpn/main/install_yhds_fullcolor.sh && chmod +x install_yhds_fullcolor.sh && ./install_yhds_fullcolor.sh
